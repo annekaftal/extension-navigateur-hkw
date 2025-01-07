@@ -1,6 +1,6 @@
 ## About
 
-tl;dr is a web extension designed to help users retain the information they read on the Internet. Powered with OpenAI’s API, this learning tool generates summaries and quizzes from active web pages and stores the user’s results in a dashboard.
+Tl;dr is a web extension designed to help users retain the information they read on the Internet. Powered with OpenAI’s API, this learning tool generates summaries and quizzes from active web pages and stores the user’s results in a dashboard.
 
 
 ## Project characteristics
